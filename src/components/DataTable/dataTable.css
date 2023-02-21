@@ -1,0 +1,12 @@
+.css-11xur9t-MuiPaper-root-MuiTableContainer-root{
+    width: 90% !important;
+    margin: 0 auto !important;
+}
+.title{
+    font-family: 'Roboto', sans-serif;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.28);
+    margin: 30px 30px;
+}
+.subtitle{
+    margin-left: 50px;
+}
